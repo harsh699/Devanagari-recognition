@@ -15,5 +15,5 @@ This is a Word Recognition System which I developed for Devanagari Script. The l
 
 
 # Steps to run this example
-1. Load the training model.ipynb and modelcode.ipynb into jupyter notebook using anaconda in your device.
+1. Load the Training model.ipynb and modelcode.ipynb into jupyter notebook using anaconda in your device.
 2. 
