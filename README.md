@@ -16,4 +16,5 @@ This is a Word Recognition System which I developed for Devanagari Script. The l
 
 # Steps to run this example
 1. Load the Training model.ipynb and modelcode.ipynb into jupyter notebook using anaconda in your device.
-2. 
+2. Download the sample image palak3.jpeg into your device and correct the location of the image in modelcode.ipynb
+3. Run each snippet of modelcode.ipynb this will predict the output of each characters of the word.
